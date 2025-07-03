@@ -1,0 +1,4 @@
+baseURL: 'takaunderwood.com'
+languageCode: 'en-us'
+title: 'takaunderwood'
+theme: 'hugo-profile'
