@@ -2,3 +2,7 @@ baseURL = 'https://takaunderwood.com/'
 languageCode = 'en-us'
 title = 'takaunderwood'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
