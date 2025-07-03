@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>takaunderwood</title>
-    <link>https://takaunderwood.com/</link>
-    <description>Recent content on takaunderwood</description>
+    <title>Posts on takaunderwood</title>
+    <link>https://takaunderwood.com/posts/</link>
+    <description>Recent content in Posts on takaunderwood</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://takaunderwood.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://takaunderwood.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://takaunderwood.com/posts/my-first-post/</link>
