@@ -1,4 +1,4 @@
-baseURL = 'https://takaunderwood.com'
+baseURL = 'https://takaunderwood.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-profile'
